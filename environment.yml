@@ -5,7 +5,7 @@ dependencies:
   - python=3.12
   - pip
   - pip:
-    - eradiate[kernel]==1.0.0
+    - eradiate[kernel]==1.0.*
     - sf_hamilton<1.89
     - ipykernel
     - ipywidgets
