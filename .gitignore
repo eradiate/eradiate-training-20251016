@@ -5,3 +5,5 @@ eradiate_downloads/
 results/
 .ipynb_checkpoints/
 HET50_SAV_PRE/
+data/
+data_cache/
