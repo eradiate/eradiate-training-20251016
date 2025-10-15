@@ -22,11 +22,6 @@ RESOURCES = {
         "https://eradiate.eu/data/paper-eradiate-v100-data-algeria.tar.gz",
         "0d46a30ad4a1ca2b3e06f3d61562d511",
     ),
-    "dakar": Resource(
-        "dakar",
-        "https://eradiate.eu/data/paper-eradiate-v100-data-dakar.tar.gz",
-        "51ae4de1d62e903d54abb44078cc3921",
-    ),
 }
 
 CACHE_PATH = "data_cache"
@@ -72,7 +67,6 @@ def main():
 available resources:
   core     - Eradiate core resource files only
   algeria  - Algeria scene data
-  dakar    - Dakar scene data
   all      - All scene data
         """,
     )
